@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+streamlit-chat
+requests
+joblib
+openai
+keras
+tensorflow
+python-dotenv
+scikit-learn
